@@ -1,0 +1,32 @@
+landing icons 
+fas fa-angle-right  fa-2x
+fas fa-angle-left  fa-2x
+
+
+services icons 
+1- fas fa-desktop fa-3x
+2-fas fa-pencil-ruler fa-3x
+3- fas fa-cog fa-3x
+4- fas fa-camera fa-3x
+
+design icon 
+font-family: "Font Awesome 5 Free";
+    content: "\f108";
+
+statics icons 
+1- fas fa-mug-hot
+2- far fa-folder
+3- far fa-envelope
+4- fas fa-trophy
+
+
+subscribe section icon 
+
+far fa-envelope fa-lg
+
+footer icons socials 
+
+1- fab fa-facebook-f
+2- fab fa-twitter
+3- fas fa-home
+4- fab fa-linkedin
